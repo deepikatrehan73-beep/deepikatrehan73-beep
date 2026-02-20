@@ -10,7 +10,7 @@
 
 #Featured Publication
 > **Inhibition of protein kinase C isozymes causes immune profile alteration and possibly decreased tumorigenesis in bladder cancer.**
-> *American Journal of Cancer Research (2023)* | [Read Paper](https://pubmed.ncbi.nlm.nih.gov/37675107/)
+> *American Journal of Cancer Research (2023)* | [Read Paper]([https://pubmed.ncbi.nlm.nih.gov/37693140/])
 > * **Data Access:** [NCBI GEO GSE245118](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE245118)
 
 ### Technical Stack
