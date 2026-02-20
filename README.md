@@ -1,7 +1,5 @@
 ## Deepika Trehan, Ph.D. 👋
 **Translational Cancer Biologist**
-<!--
-**deepikatrehan73-beep/deepikatrehan73-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 **I am a researcher** specializing in the ** "Wet-to-Dry" validation loop**, bridging high-throughput transcriptomics with functional protein-level evidence to decode the Tumor Microenvironment (TME).
 
