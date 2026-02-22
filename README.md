@@ -14,7 +14,7 @@ Systems Biology: Identifying regulatory hub genes (VEGFA, CXCL8, TP53) using Cyt
 > * Data Access: [NCBI GEO GSE245118](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE245118)
 
 # Technical Stack
-Languages:** R (Bioconductor)
+Languages:R (Bioconductor)
 Bioinformatics: DESeq2, limma, GSEA, CIBERSORT-X, STRING
 Wet-Lab: Agilent Microarrays, Ion Proton NGS, TMA, Western Blot
 
